@@ -1,0 +1,28 @@
+AcharECF:  ProcuraModelo
+AcharPorta( 3 )
+AcharPorta( 3 )
+AcharPorta( 3 )
+AcharPorta( 3 )
+AcharPorta( 3 )
+AcharPorta( 3 )
+AcharPorta( 3 )
+AcharPorta( 3 )
+AcharPorta( 3 )
+AcharPorta( 3 )
+AcharPorta( 3 )
+AcharPorta( 3 )
+AcharPorta( 3 )
+AcharPorta( 3 )
+AcharPorta( 3 )
+
+--------------------------------------------------------------------------------
+ATIVAR - 18/06/15 16:09:41:329 - Modelo: NaoFiscal - Porta: c:\siace\ecf.txt - TimeOut: 3
+         Device: BAUD=9600 DATA=8 PARITY=N STOP=1 HANDSHAKE=RTS/CTS HARDFLOW MAXBANDWIDTH=0
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+ATIVAR - 18/06/15 16:24:17:951 - Modelo: NaoFiscal - Porta: c:\siace\ecf.txt - TimeOut: 3
+         Device: BAUD=9600 DATA=8 PARITY=N STOP=1 HANDSHAKE=RTS/CTS HARDFLOW MAXBANDWIDTH=0
+--------------------------------------------------------------------------------
+
